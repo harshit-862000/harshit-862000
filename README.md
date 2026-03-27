@@ -67,20 +67,6 @@ A production-oriented Retrieval-Augmented Generation pipeline for natural langua
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshit-862000&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-862000&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshit-862000&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
